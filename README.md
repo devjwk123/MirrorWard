@@ -1,6 +1,6 @@
-# MirrorWard
+# smartTV
 
-MirrorWard 프로젝트 저장소입니다.
+smartTV 프로젝트 저장소입니다.
 
 ## 시작하기
 
