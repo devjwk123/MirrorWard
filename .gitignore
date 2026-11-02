@@ -1,23 +1,26 @@
+# Android / Gradle
+*.iml
+.gradle/
+local.properties
+/build/
+**/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# IDE
+.idea/
+.vscode/
+
 # OS
 .DS_Store
 Thumbs.db
 
-# Editors
-.vscode/
-.idea/
-*.swp
-
-# Environment
+# Env / logs
 .env
 .env.*
-
-# Logs
 *.log
-
-# Dependencies / build output
-node_modules/
-dist/
-build/
-__pycache__/
-*.pyc
-.venv/
